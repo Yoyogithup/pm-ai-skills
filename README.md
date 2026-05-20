@@ -1,6 +1,6 @@
 # 🤖 PM AI Skills
 
-> 产品经理的 AI 技能工具箱，让 AI 成为你的超级助手
+> PM 的 AI 技能合集：产品工作 · 项目管理 · 日常生活 · 创意玩法
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/Yoyogithup/pm-ai-skills?style=social)](https://github.com/Yoyogithup/pm-ai-skills/stargazers)

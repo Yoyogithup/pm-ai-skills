@@ -6,7 +6,7 @@
 
 在开始之前，请确保你已经：
 
-- ✅ 安装了 [Claude Code](https://claude.ai/code)
+- ✅ 安装了 [QoderWork](https://claude.ai/code)
 - ✅ 熟悉基本的 AI Skills 使用方式
 - ✅ 有基本的命令行操作经验
 
@@ -21,10 +21,10 @@ cd pm-ai-skills
 
 ### 2. 浏览可用技能
 
-查看 `skills/` 目录下的各个分类：
+查看根目录下的各个分类：
 
 ```bash
-ls -la skills/
+ls -la
 ```
 
 你会看到以下分类：
@@ -38,26 +38,26 @@ ls -la skills/
 进入你感兴趣的技能目录，查看 README 了解详情：
 
 ```bash
-cd skills/product-work/prd-doc-writer/
+cd product-work/prd-doc-writer/
 cat README.md
 ```
 
-### 4. 安装技能到 Claude Code
+### 4. 安装技能到 QoderWork
 
-根据 Claude Code 的 skills 安装方式：
+根据 QoderWork 的 skills 安装方式：
 
 **方式 1：直接复制文件**
-将 `skill.md` 复制到 Claude Code 的 skills 目录
+将 `skill.md` 复制到 QoderWork 的 skills 目录
 
 **方式 2：符号链接**（推荐）
 ```bash
-ln -s /path/to/pm-ai-skills/skills/product-work/prd-doc-writer/skill.md \
-      ~/.claude/skills/prd-doc-writer.md
+ln -s /path/to/pm-ai-skills/product-work/prd-doc-writer/skill.md \
+      ~/.qoderwork/skills/prd-doc-writer.md
 ```
 
 ### 5. 验证安装
 
-在 Claude Code 中输入技能名称（如 `/prd-doc-writer`），看是否能正常调用。
+在 QoderWork 中输入技能名称（如 `/prd-doc-writer`），看是否能正常调用。
 
 ## 常见问题
 

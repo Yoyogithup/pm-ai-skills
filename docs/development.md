@@ -23,7 +23,7 @@
 ### 3. 创建技能目录
 
 ```bash
-cd skills/[分类名]/
+cd [分类名]/
 mkdir your-skill-name
 cd your-skill-name
 ```
@@ -70,7 +70,7 @@ cd your-skill-name
 ### 6. 测试技能
 
 在本地测试技能：
-1. 安装到 Claude Code
+1. 安装到 QoderWork
 2. 测试各种使用场景
 3. 确保输出符合预期
 4. 优化提示和流程

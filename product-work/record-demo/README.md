@@ -17,11 +17,11 @@
 ## 🚀 使用方法
 
 ### 前置要求
-- 已安装 Claude Code 或支持 AI Skills 的环境
+- 已安装 QoderWork 或支持 AI Skills 的环境
 - 已安装 Node.js 和 FFmpeg
 
 ### 安装步骤
-1. 将 `SKILL.md` 文件复制到你的 skills 目录（`~/.claude/skills/`）
+1. 将 `SKILL.md` 文件复制到你的 skills 目录（`~/.qoderwork/skills/`）
 2. 重命名为 `record-demo.md`
 
 ### 使用示例
@@ -130,7 +130,7 @@ ffmpeg -i input.webm \
 
 ## 📖 实战案例
 
-**案例**：闲鱼实名认证 Demo 演示视频
+**案例**：某产品实名认证 Demo 演示视频
 - 场景数：4个
 - 总时长：3分39秒
 - 视频大小：2.3 MB

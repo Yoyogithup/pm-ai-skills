@@ -16,11 +16,11 @@
 ## 🚀 使用方法
 
 ### 前置要求
-- 已安装 Claude Code 或支持 AI Skills 的环境
+- 已安装 QoderWork 或支持 AI Skills 的环境
 
 ### 安装步骤
 1. 将 `skill.md` 文件复制到你的 skills 目录
-2. 按照 Claude Code 的 skill 安装流程进行配置
+2. 按照 QoderWork 的 skill 安装流程进行配置
 
 ### 使用示例
 
@@ -57,7 +57,5 @@
 这个技能基于开源项目改进而来，欢迎提出改进建议！
 
 ---
-
-待补充：`skill.md` 文件内容（将在后续上传）
 
 [← 返回产品工作技能](../README.md)

@@ -7,37 +7,39 @@
 
 ## 👋 项目介绍
 
-这个仓库收集了我在产品经理日常工作中创建的各种 AI Skills，帮助提升工作效率。所有技能基于 Claude Code / AI Agent 设计，开箱即用。
+这个仓库收集了我在产品经理日常工作中创建的各种 AI Skills，帮助提升工作效率。所有技能基于 QoderWork / AI Agent 设计，开箱即用。
 
 ## 🎯 技能分类
 
-### 📦 [产品工作](./skills/product-work/)
+### 📦 [产品工作](./product-work/)
 专注于产品经理核心工作场景的技能
 
-- **[prd-doc-writer](./skills/product-work/prd-doc-writer/)** - PRD 文档智能生成助手，结构化引导产出规范的产品需求文档
+- **[prd-doc-writer](./product-work/prd-doc-writer/)** - PRD 文档智能生成助手，通过用户旅程对齐、逐条故事确认、ASCII 线框图与 Mermaid 流程图，结构化引导产出规范的产品需求文档
+- **[survey-questionnaire-generator](./product-work/survey-questionnaire-generator/)** - 调研问卷生成器，基于调研主题生成专业问卷，并进行信度、效度、完成率等多维度质量检查
 - 更多技能持续添加中...
 
-### 🏠 [日常生活](./skills/daily-life/)
+### 📊 [工作项目管理](./project-management/)
+项目管理和团队协作相关技能
+
+- **[alibaba-performance-review](./project-management/alibaba-performance-review/)** - 阿里绩效自评生成器，基于工作文档自动生成符合阿里绩效评估规则的年度自评总结
+- 更多技能持续添加中...
+
+### 🏠 [日常生活](./daily-life/)
 提升日常生活效率的实用技能
 
 - 敬请期待...
 
-### 📊 [工作项目管理](./skills/project-management/)
-项目管理和团队协作相关技能
-
-- 敬请期待...
-
-### 🎨 [好玩的 Skill](./skills/fun-skills/)
+### 🎨 [好玩的 Skill](./fun-skills/)
 有趣且实用的创意技能
 
-- **[drawing](./skills/fun-skills/drawing/)** - 绘图助手，帮助创作图表和可视化内容
+- **[drawing](./fun-skills/drawing/)** - 绘图助手，帮助创作图表和可视化内容
 - 更多创意技能持续添加中...
 
 ## 🚀 快速开始
 
 ### 前置要求
 
-- 安装 [Claude Code](https://claude.ai/code) 或支持 AI Agent 的开发环境
+- 安装 [QoderWork](https://qoder.com) 或支持 AI Agent 的开发环境
 - 基本了解 AI Skills 的使用方式
 
 ### 安装技能
@@ -49,7 +51,7 @@
    ```
 
 2. **找到你需要的技能**
-   浏览 `skills/` 目录，选择需要的技能
+   浏览各分类目录，选择需要的技能
 
 3. **按照技能说明安装**
    每个技能目录都有独立的 README，按照说明进行配置
@@ -59,8 +61,9 @@
 ## 💡 使用场景
 
 - 📝 **快速生成规范的 PRD 文档** - 告别重复劳动，专注于需求本身
+- 📋 **自动生成专业调研问卷** - 附带信度效度质量检查
+- 🏆 **一键生成绩效自评总结** - 基于工作文档智能提炼
 - 🎨 **创作图表和可视化内容** - 让复杂的概念一目了然
-- 📊 **自动化日常工作流程** - 把时间花在更有价值的事情上
 - 🤖 **更多场景等你探索** - 每个人都能找到适合自己的技能
 
 ## 📚 文档

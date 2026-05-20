@@ -21,7 +21,7 @@
 ### 📊 [工作项目管理](./project-management/)
 项目管理和团队协作相关技能
 
-- **[alibaba-performance-review](./project-management/alibaba-performance-review/)** - 阿里绩效自评生成器，基于工作文档自动生成符合阿里绩效评估规则的年度自评总结
+- **[performance-review](./project-management/performance-review/)** - 通用绩效自评助手，自动适配不同评估体系（OKR/KPI/价值观/能力素质模型），基于工作文档生成结构化自评总结
 - 更多技能持续添加中...
 
 ### 🏠 [日常生活](./daily-life/)
